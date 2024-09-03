@@ -1,0 +1,30 @@
+[
+  {
+    "title": "Image Based Answering System",
+    "imageSrc": "projects/project1.png",
+    "description": "This is a Deep learning based Answering sytem project using python libraries.",
+    "skills": ["Python", "ML", "NLP"],
+    "source": "https://github.com/charvi03/Image_based_Answering_system"
+  },
+  {
+    "title": "Dynamic E-learning platform ",
+    "imageSrc": "projects/project2.png",
+    "description": "It enhances accessibility and engagement for students and instructors globally",
+    "skills": ["React", "Express", "Node", "MonogDb"],
+    "source": "https://github.com/charvi03/skillbridge-mega-project"
+  },
+  {
+    "title": "HR Analytics Dashboard",
+    "imageSrc": "projects/project3.png",
+    "description": "This is a project made to visualize employee turnover and performance, driving data informed HR decisions",
+    "skills": ["PowerBI", "Data analytics"],
+    "source": "https://github.com/charvi03/"
+  },
+  {
+    "title": "Social media feed",
+    "imageSrc": "projects/project4.png",
+    "description": "This includes personalized feeds, profile management, authentication and other social features.",
+    "skills": ["React", "Express", "Node", "MonogDb"],
+    "source": "https://github.com/charvi03/Social-media-feed-app"
+  }
+]
